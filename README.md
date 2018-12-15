@@ -1,0 +1,2 @@
+# sample_window
+qwertyty
